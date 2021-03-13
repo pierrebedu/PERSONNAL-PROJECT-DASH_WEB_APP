@@ -18,7 +18,7 @@ app = dash.Dash(__name__)
 app.layout = html.Div(children=[
     html.H1(children='Ma première app avec Dash'),
     html.H2(children="Entrez un nom d'action comme AAPL, MSFT,..."),
-    dcc.Input(id='input', value='nom de l action!', type='text'),
+    dcc.Input(id='input', value='écrire IBM,AAPL, MSFT ici', type='text'),
     html.Div(id='output88'), # .Div = texte?????
     
     html.Div(id='output-graph')
