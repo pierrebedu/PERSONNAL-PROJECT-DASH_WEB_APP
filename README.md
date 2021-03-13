@@ -1,5 +1,5 @@
 # DASH_WEB_APP
-Creating a dashboard using Plotly's Dash.
+Creating a raw dashboard using Plotly's Dash.
 
 //Work in progress//
 At this stage, not doing anything fancy, but functionnal.
