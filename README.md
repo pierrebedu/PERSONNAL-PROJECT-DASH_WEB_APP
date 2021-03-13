@@ -1,8 +1,8 @@
 # DASH_WEB_APP
-Creating a nice dashboard using Plotly's Dash.
+Creating a dashboard using Plotly's Dash.
 
 //Work in progress//
-At this stage, not doing anything interesting, but functionnal.
+At this stage, not doing anything fancy, but functionnal.
 
 HOW TO USE THIS?
 - launch the .py file in any python IDE (like spyder)
