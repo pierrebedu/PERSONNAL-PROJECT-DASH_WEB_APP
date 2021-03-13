@@ -2,4 +2,4 @@
 Creating a nice dashboard using Plotly's Dash.
 
 //Work in progress//
-At this stage not doing anything interesting, but functionnal.
+At this stage, not doing anything interesting, but functionnal.
