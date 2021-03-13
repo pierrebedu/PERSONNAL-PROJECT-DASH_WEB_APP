@@ -16,8 +16,7 @@ df = data.DataReader("IBM",
 app = dash.Dash(__name__)
 
 app.layout = html.Div(children=[
-    html.H1(children='Ma première app avec Dash'),
-    html.Div(children='écrire IBM,AAPL, MSFT ici'),
+    html.H1(children='Ma première app avec Dash!'),
     dcc.Input(id='input', value='écrire IBM,AAPL, MSFT ici', type='text'),
     html.Div(id='output88'), # .Div = texte?????
     
