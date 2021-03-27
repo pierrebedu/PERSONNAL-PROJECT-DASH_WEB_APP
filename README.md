@@ -6,6 +6,7 @@ Creating a raw dashboard using Plotly's Dash for learning puproses.
 At this stage, not doing anything fancy, but functionnal.
 
 ###########################################################################################
+
 HOW TO USE THIS?
 - launch the .py file in any python IDE (like spyder)
 - the URL of the web app is http://127.0.0.1:3003/
